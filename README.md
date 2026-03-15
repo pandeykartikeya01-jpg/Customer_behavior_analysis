@@ -46,7 +46,6 @@ Discount usage patterns
 5. Dashboard Creation:
 An interactive Power BI dashboard was created to visualize key insights.
 
-Results
 Key insights from the analysis include:
 Clothing category generated the highest revenue.
 Young adult customers contribute the largest share of sales.
